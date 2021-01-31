@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  },
+  "name": "CV-sabrine",
+  "version": "1.0.0",
+  "main": ".html",
+  "repository": "cv",
+  "author": "Sabrine HAMILA <rinehamila@gmail.com>",
+  "license": "MIT"
+}
