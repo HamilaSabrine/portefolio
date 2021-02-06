@@ -5,7 +5,7 @@
   "repository": "cv",
   "author": "Sabrine HAMILA <rinehamila@gmail.com>",
   "license": "MIT"
-},
+,
   "scripts": {"start":"http-server -p 9000"},
   
     "dependencies": {
@@ -14,3 +14,4 @@
     "devDependencies": {
       "eslint": "^7.19.0"
     },
+  }
